@@ -51,20 +51,30 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+figcaption {
+  font-size: .75em;
+  padding-bottom: 20px;
+}
 h1 {
   font-size: 1em;
   line-height: 1.5em;
 }
-h3 {
-  font-size: 1em;
+h2 {
+  font-size: 1.5em;
   line-height: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  padding-bottom: 20px;
 }
 p {
   line-height: 1.5em;
-   padding: 50px;
+  padding-bottom: 20px;
 }
 a {
   text-decoration: none;
 }
   a:link { color:#000000; }
   a:hover { color:#0070BC; }
+  a:active { color:#008088; }
